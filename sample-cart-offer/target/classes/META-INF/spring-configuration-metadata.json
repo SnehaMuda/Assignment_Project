@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springboot.property.ComplexProperty",
+      "name": "complex",
+      "type": "com.springboot.property.ComplexProperty"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springboot.property.ComplexProperty",
+      "name": "complex.property",
+      "type": "java.util.List<com.springboot.property.Property>"
+    }
+  ]
+}
